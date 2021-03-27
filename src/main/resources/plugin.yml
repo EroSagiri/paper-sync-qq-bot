@@ -1,0 +1,4 @@
+main: me.sagiri.minecraft.bukkit.syncQQBot.PluginMain
+version: 1.0.0
+description: "Sync"
+name: "sync"
